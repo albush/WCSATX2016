@@ -7,6 +7,12 @@ slidenumbers: true
 
 ---
 
+# [fit] \#ImprovYourBlog
+
+# @alanbush
+
+---
+
 ![](ab3.png)
 
 # Alan Bush
@@ -52,7 +58,8 @@ slidenumbers: true
 # [fit] Beer reviews
 # [fit] saflavor.com
 
-^ I write beer reviews for San Antonio Flavor. I happen to like a good beer every now and again, and the chance to share my thoughts with others is too good to pass up. (By the way, stick around for Garrett Heath's talk coming up next. He's a great presenter, and has a wonderful presentation for you coming up next.). 
+^ I write beer reviews for San Antonio Flavor. I happen to like a good beer every now and again, and the chance to share my thoughts with others is too good to pass up. (By the way, Garrett Heath, the founder of SAFlavor is speaking next. stick around for his talk coming up next. He's a great presenter, and has a wonderful presentation for you coming up next.). 
+
 
 ---
 
@@ -81,22 +88,7 @@ slidenumbers: true
 ---
 
 > The Rules of Improv have shaped the way I approach content creation.
--- me
-
----
-
-![right](legoplan.jpg)
-
-# Our Plan
-
-* The Problem
-* A Solution
-* The History
-* The Rules
-* Applying the Rules
-* Breaking the Rules
-
-^ so what's the plan? Here's the outline I'm going to try to stick to. We'll start with a look at the problem, and how Improv can be a Solution. We'll look at improv, its history and rules, then how we can apply those rules in our content creation. We might even get into breaking a few rules, too. So what's the problem?
+-- me, figuring out the thesis of this presentation
 
 ---
 
@@ -115,11 +107,12 @@ slidenumbers: true
 We say "No" to our voice as a writer.
 We say "No" to our writing environment.
 We say "No" because we're scared; we say "No" because we've been told that we're not good enough - and we're starting to believe it. We say "No" when we don't have a good idea of what to write.
+"No" is the voice of imposter syndrome.
 Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 
 ---
 
-# [fit] Yes.
+# [fit] Yes
 
 ^ Improv is about saying "yes." Yes to your idea, to your voice as a writer. "yes" to your environment, and "Yes!" to the voice in your head that's reminding you that you're actually pretty great.
 
@@ -154,7 +147,7 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 > Fall, and then figure out what to do on the way down.
 -- Del Close
 
-^ Improv is about removing any obstacles, and trusting yourself to create.
+^ Improv is about trust. Trust in yourself. Improv is about removing all obstacles, and trusting yourself to create something great. That's why improv has shaped the way that I create.
 
 ---
 
@@ -234,12 +227,13 @@ Throughout the years, Charna, Del, Paul, Viola, The commedia performers all taug
 # [fit] Yes,
 # [fit] &
 
-^ One of the primary tenants of improv is the concept of “Yes And.” For almost all improvisors, this is the first, and possibly only, rule you learn. As you can tell by the comma, this rule has two parts.
+^ One of the primary tenants of improv is the concept of “Yes And.” For almost all improvisors, this is the first, and possibly only, rule you learn. Why is yes & so important in improv and in content creation? Because Yes & provides momentum and acceleration. Saying yes keeps the scene going; adding the & adds fuel to the scene. When we teach improv, we really hammer home the message of "Yes." When we write, or more importantly give ourselves excuses not to write - we need to remember to just say yes. Saying yes gets us started. Saying yes is self-impowering. Yes is an affirmation to your voice and to yourself. Saying yes stops that imposter syndrome in its tracks.
+^ As you can tell by the comma, this rule has two parts.
 
 ---
 ![fit](sayyes.jpg)
 
-# [fit] Improve Rule 1A: Say "Yes"
+# [fit] Improv Rule 1A: Say "Yes"
 
 
 ^ So why does Rule 1A require that we say "Yes?" Because we're not really good at it.
@@ -273,7 +267,7 @@ Let's go back to my previous example of my fictional scene partner's offer "Hey 
 
 ![](morerules.jpg)
 
-# [fit] More Rules
+# [fit] More ~~Rules~~ Tips
 
 ^ Just kidding, there are more rules. We should really consider these guidelines, or guardrails, not rules, but "rules" has a certain authority to it.
 
@@ -313,6 +307,14 @@ So Jerry is a Triceratops and an accountant? What else can we extract from that?
 Jerry is a vegetarian. He's got horns.
 Jerry is probably good at math. Jerry has an education. Jerry might be pretty boring.
 What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live in a city with viable public transportation? Each of these are specific gifts, that "Yes, and" the conversation.
+
+---
+
+# [fit] Callbacks
+
+![original](callback.jpg)
+
+^ Call backs are a great way to keep an audience involved. A callback is when you refer to something that happened before. The TV Show "Family Guy" is basically one long callback. Arrested Development also did it, but with a much more deft touch. Why are callbacks funny? Because the audience gets to be in on the joke with the performers. Back to our running example, I might be in another scene later on, as a completely different character, and make an off-hand remark about the number of dinosaurs that work in the building across the street. The audience understands the reference, makes the connection on their own, and gets to enjoy the laugh that much more. Callbacks join the worlds we create when we improvise.
 
 ---
 
@@ -374,17 +376,32 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 # "If this is true, what else is true?"
 
-* Songza is good at playlists
-* Google is good at context
-* They'll be better, together
+* Find your angle
+* Spin off additional posts
+* Example: Google + Songza
 
-^ Great way to realize additional uses for a product/service. (Example: Google purchased Songza.)
+^ This is a great way to find your angle on a story. Everyone else is blogging about the specs of a new mobile phone. Find your own Angle, and share that. You know what's great? Writing a post about the new brewery in town. You know what's better? Writing a post about the brewery, another one about the head brewer, another post about how they worked with the graphic designer to create unique, but on-brand can designs. Follow this exercise to start with one basic idea, and build a larger cache of stories to write down the road. Even if you don't write them now, you've got a great backlog to go back to when writers block strikes.
+
+---
+
+![fit left](alan-ref.jpg)
+
+# [fit] Follow The Rules:
+
+# Callbacks
+
+* Reference your own work
+* Link to your past posts
+* Link to other people's work
+* Go back to old posts and link
 
 ---
 
 # [fit] Breaking the Rules
 
 ![](brownbag.jpg)
+
+^ Sometimes we need to break the rules. Even if we're following all of the rules of improv, we sometimes need that extra something to take our work from ordinary to extraodinary. Following the rules of improv can yield content that is well executed technically. But for me, "technically well executed" isn't good enough. I want to be great.
 
 ---
 
@@ -407,7 +424,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 ![](bryanyelling.jpg)
 
 ^ If your character wouldn't agree, don't agree.
-^ When you write or otherwise produce content, you're playing a character.
+^ Take a look at what you're writing. Do you agree with it? No? Tell us why. The audience needs that extra spark from you, from your voice, to push it from a good piece to a great piece.
 
 ---
 
@@ -432,9 +449,27 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 --- -->
 
+![fit left](alan-ref.jpg)
+
+# [fit] The Rules of Improv
+
+* Yes, &
+* Give Gifts
+* Be Specific
+* What'Special About Today?
+* If This Is True, What else?
+* Callbacks
+* Your Character Makes Your Writing Dynamic
+
+---
+
 # Review
-* What have we learned?
+
+* What did you learn?
+* What can I clear up?
 * How do you plan on applying it?
+
+^ move on at 2 minutes left.
 
 ---
 
@@ -445,6 +480,8 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * ComedySportz
 * Alamo City Improv
 * The Denials
+* Missed Opportunity
+
 
 ---
 
@@ -465,7 +502,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * ComedySportz
 * Alamo City Improv
 * The Denials
-* Missed Opportunity
+* Missed Opportunity (All Female Cast)
 
 ---
 

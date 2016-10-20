@@ -9,7 +9,7 @@ slidenumbers: true
 
 # [fit] \#ImprovYourBlog
 
-# @alanbush
+### @alanbush
 
 ---
 
@@ -40,8 +40,9 @@ slidenumbers: true
 
 ![](167-cap.png)
 
+# [fit] Rackspace
 # [fit] Office Hours Podcast
-# [fit] ohpodcast.com
+## ohpodcast.com
 
 ^ I also get the great opportunity to host Rackspace Office hours, a weekly panel discussion podcast that we record live each week. We just finished episode #169 on Thursday.
 
@@ -122,12 +123,12 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 ![fit](cszsa-4.jpg)
 
 * Made up
+* Collaborative
 * Spontaneous
 * Ephemeral
-* Collaborative
+* A process
 
-^ So what is improv? When I list it out like this, it feels like the opposite of writing, doesn't it? Improv is fun. Improv done right is all the joy that you used to get from writing, without all of the "No's."
-^ Improv is the lights going out three minutes into your show...
+^
 
 ---
 
@@ -157,7 +158,7 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 
 ^ Alright, let's talk improv history.
 
----
+<!-- ---
 
 ![fit right](commedia.jpg)
 
@@ -168,7 +169,7 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 * Stock characters
 * Masks and Bits
 
-^ Let's start in Italy, in the 1500s, with the Commedia dell'arte. The Commedia wasn't the first improv, but it's a good place to start. The commedia sketches were loosely improvised and based on established stock characters and scenarios. They relied heavily on stereotypes, identified by masks, and used practiced bits - Lazzi. But their stock characters still live on today.
+^ Let's start in Italy, in the 1500s, with the Commedia dell'arte. The Commedia wasn't the first improv, but it's a good place to start. The commedia sketches were loosely improvised and based on established stock characters and scenarios. They relied heavily on stereotypes, identified by masks, and used practiced bits - Lazzi. But their stock characters still live on today. -->
 
 ---
 
@@ -215,8 +216,8 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 
 # Charna Halpern (1952- )
 
-* ImprovOlympic
 * *Truth in Comedy*
+* ImprovOlympic
 * The Harold
 
 ^ Charna and Del co-wrote "Truth in Comedy," a great, fast read, about Improv. She taught The Harold, a popular long-form improv format.
@@ -259,7 +260,7 @@ Let's go back to my previous example of my fictional scene partner's offer "Hey 
 
 ---
 
-# [fit] That's it
+# [fit] The End
 
 ^ That's it.
 
@@ -273,13 +274,11 @@ Let's go back to my previous example of my fictional scene partner's offer "Hey 
 
 ---
 
-![](givegifts.jpg)
+<!-- ![](givegifts.jpg)
 
 # Give Gifts
 
-^ Give Gifts: Don't do bits. Don't make demands. Don't be selfish. Give a gift. Back to that scene about the dinosaur on the bus: If I responded "geez Lucy, you need to stop drinking on the way to work," I might get cheap laugh, but I'm not giving my scene partner much to work with. I've just crushed her idea, and I've wrecked our trust.
-
----
+^ Give Gifts: Don't do bits. Don't make demands. Don't be selfish. Give a gift. Back to that scene about the dinosaur on the bus: If I responded "geez Lucy, you need to stop drinking on the way to work," I might get cheap laugh, but I'm not giving my scene partner much to work with. I've just crushed her idea, and I've wrecked our trust. -->
 
 ![fit](lexhat.jpg)
 
@@ -319,7 +318,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 ---
 
 
-![fit right](alan-ref.jpg)
+![fit left](alan-ref.jpg)
 
 # [fit] Follow The Rules:
 
@@ -332,7 +331,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 ---
 
-![fit left](alan-ref.jpg)
+<!-- ![fit left](alan-ref.jpg)
 
 # [fit] Follow The Rules:
 
@@ -342,7 +341,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * Give a reason to write
 * Delight your audience
 
----
+--- -->
 
 ![fit right](alan-ref.jpg)
 
@@ -378,7 +377,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 * Find your angle
 * Spin off additional posts
-* Example: Google + Songza
+* Increase the amount of content you create
 
 ^ This is a great way to find your angle on a story. Everyone else is blogging about the specs of a new mobile phone. Find your own Angle, and share that. You know what's great? Writing a post about the new brewery in town. You know what's better? Writing a post about the brewery, another one about the head brewer, another post about how they worked with the graphic designer to create unique, but on-brand can designs. Follow this exercise to start with one basic idea, and build a larger cache of stories to write down the road. Even if you don't write them now, you've got a great backlog to go back to when writers block strikes.
 
@@ -397,7 +396,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 ---
 
-# [fit] Breaking the Rules
+<!-- # [fit] Breaking the Rules
 
 ![](brownbag.jpg)
 
@@ -434,7 +433,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 ^ Whatever your character is, do more of that. Are you the grumpy curmudgeon? Great! Add that saltiness to your story. Are you the eternal optimist? Awesome! Make that shine through.
 
----
+--- -->
 
 <!-- # Workshop
 
@@ -454,12 +453,10 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 # [fit] The Rules of Improv
 
 * Yes, &
-* Give Gifts
 * Be Specific
 * What'Special About Today?
 * If This Is True, What else?
 * Callbacks
-* Your Character Makes Your Writing Dynamic
 
 ---
 
@@ -470,6 +467,18 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * How do you plan on applying it?
 
 ^ move on at 2 minutes left.
+
+---
+
+![fit](gotyourback.jpg)
+
+^ One last thing before you go - We have a tradition in ComedySportz. Before we take the stage, all of the players pat each other on the back and say "Got your back." We say that, because, more than anything, improv is about trust. "Got your back" is a reminder of that trust.
+^ We have a nice WordPress Community here in San Antonio. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
+
+---
+
+Slides, Resource Guide, and Photo Credits available at
+# [fit] albush.com/iyb
 
 ---
 
@@ -506,23 +515,23 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 ---
 
-![fit](gotyourback.jpg)
+#### Photo Credits
 
-^ One last thing before you go - We have a tradition in ComedySportz. Before we take the stage, all of the players pat each other on the back and say "Got your back." We say that, because, more than anything, improv is about trust. "Got your back" is a reminder of that trust.
-^ We have a nice WordPress Community here in San Antonio. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
+- Slide 9: flickr photo by ChodHound https://flickr.com/photos/chodhound/108179345 shared under a Creative Commons (BY-SA) license
+- Slide 12: flickr photo by Drew Coffman https://flickr.com/photos/drewcoffman/4815205632 shared under a Creative Commons (BY) license
+- Slide 18: flickr photo by trickmonet https://flickr.com/photos/trickmonet/3401178634 shared under a Creative Commons (BY) license
 
 ---
 
-# Photo Credits
+#### Photo Credits
 
-SAFlavor: Photo Credit Garrett Heath, SAFlavor.com
-abandoned blog: flickr photo by ChodHound https://flickr.com/photos/chodhound/108179345 shared under a Creative Commons (BY-SA) license
-hardest part: flickr photo by Drew Coffman https://flickr.com/photos/drewcoffman/4815205632 shared under a Creative Commons (BY) license
-freefall: flickr photo by trickmonet https://flickr.com/photos/trickmonet/3401178634 shared under a Creative Commons (BY) license
-violaspolin: http://www.violaspolin.org/bio/
-confusion corner: flickr photo by scjody https://flickr.com/photos/scjody/5289437030 shared under a Creative Commons (BY-SA) license
-toolbox: flickr photo by florianric https://flickr.com/photos/florianric/7263382550 shared under a Creative Commons (BY) license
-edit: flickr photo by Nic's events https://flickr.com/photos/nics_events/2349631689 shared under a Creative Commons (BY-SA) license
-breakrules: flickr photo by patrickMphotography https://flickr.com/photos/padraigmerr/17309405670 shared under a Creative Commons (BY) license
-agree: flickr photo by khalid Albaih https://flickr.com/photos/khalidalbaih/5808844624 shared under a Creative Commons (BY) license
-legoplan: flickr photo by bobsfever https://flickr.com/photos/bobsfever/6747750655 shared under a Creative Commons (BY-ND) license
+- Slide 20: Photo from Viola Spolin official website: http://www.violaspolin.org/bio/
+- Slide 21: Photo from spolin.org: http://spolin.com/?page_id=547
+- Slide 22: Photo from Chicago Reader: http://www.chicagoreader.com/chicago/as-del-lay-dying/Content?oid=1109931
+
+---
+
+#### Photo Credits
+
+- Slide 23: Photo from iO: http://ioimprov.com/chicago/classes/instructors/
+- Slide 42: Photo from AVClub: http://www.avclub.com/article/mick-napier-opens-his-iswear-jar-i-39763

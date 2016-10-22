@@ -32,7 +32,7 @@ slidenumbers: true
 # [fit] Documentation
 # [fit] Rackspace Blog
 
-^ A while back I started to track all of the places I was creating content. I write a lot at work. Mostly technical help Q&A stuff. I also write proactive help documentation and tutorials. I write for the Rackspace Blog.
+^ I write a lot at work. Mostly technical help Q&A stuff. I also write proactive help documentation and tutorials. I write for the Rackspace Blog.
 
 <!-- Can I find an example of a good WordPress tutorial/documentation? -->
 
@@ -44,7 +44,7 @@ slidenumbers: true
 # [fit] Office Hours Podcast
 ## ohpodcast.com
 
-^ I also get the great opportunity to host Rackspace Office hours, a weekly panel discussion podcast that we record live each week. We just finished episode #169 on Thursday.
+^ I also get the great opportunity to host Rackspace Office hours, a weekly panel discussion podcast that we record live each week. We just finished episode #169 on Thursday. [Sidebar: Things didn't work; we rolled with it.]
 
 ---
 
@@ -61,7 +61,6 @@ slidenumbers: true
 
 ^ I write beer reviews for San Antonio Flavor. I happen to like a good beer every now and again, and the chance to share my thoughts with others is too good to pass up. (By the way, Garrett Heath, the founder of SAFlavor is speaking next. stick around for his talk coming up next. He's a great presenter, and has a wonderful presentation for you coming up next.). 
 
-
 ---
 
 ![](cszsa-1.jpg)
@@ -69,17 +68,17 @@ slidenumbers: true
 # [fit] ComedySportz
 # [fit] San Antonio
 
-^ For the last 4 and half years I've been performing regularly with ComedySportz San Antonio. This is my outlet for my improv nerdiness.
+^ For the last 4 and half years I've been performing regularly with ComedySportz San Antonio. This is my outlet for my improv nerdiness. The folks at ComedySportz are great, and we're building an even bigger community of improvisors right here in San Antonio. There are regular improv classes,
 
 ---
 
-![](lonely.jpg)
+<!-- ![](lonely.jpg)
 
 ## albush.com
 
 ^ And finally, last and certainly least frequently updated outlet for my nerdery, my personal blog.
 
----
+--- -->
 
 > That seems like a lot.
 -- me
@@ -119,16 +118,24 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 
 ---
 
-## [fit] What is improv?
+# [fit] How is Improv like Writing?
 ![fit](cszsa-4.jpg)
 
-* Made up
-* Collaborative
 * Spontaneous
 * Ephemeral
+* Made up
+* Collaborative
 * A process
 
-^
+^ Improv doesn't look like writing or content creation. It's ephemeral and Spontaneous. It's make believe. But Improv is also collaborative. Improv is a process. And we can use that process to create cool things.
+
+---
+
+![](brownbag.jpg)
+
+# Yes
+
+^ The process and practice of Improv gets you in the habit of saying "yes," to whatever is thrown at you; and that's a valuable content creation skill, but also a valuable life skill. With An improv mindset you don't panic when the lights go out 3 minutes into the show...
 
 ---
 
@@ -139,7 +146,7 @@ Whatever the reason, we say "No," but Improv teaches us to say "Yes."
 
 ![fit](doitlive.jpg)
 
-^ ... and saying yes to doing the show in the parking lot.
+^ ... You just and say yes to doing the show in the parking lot.
 
 ---
 
@@ -293,7 +300,7 @@ Let's go back to my previous example of my fictional scene partner's offer "Hey 
 # [fit] What's special about today?
 
 ^ What's Special about today? In improv, like theatre, film, and television, we make create the scene any time and place we want. Why would we choose to make up a scene in the middle of a boring day?
-Why did Lucy see Dinosaur today? Maybe she follows up with "You're right, that is just like me. Today's the day I stop ignoring my coworkers and start making friends; Let's go have lunch with Jerry." Now we have more gifts (Lucy ignores her coworkers) and a reason for why today is important - Lucy has decided that she's going to start making friends with her coworkers. What's going to happen? Will she
+What else is going on in the world
 
 ---
 
@@ -329,6 +336,8 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * Build on your ideas: "Yes, &"
 * Have Fun
 
+^ This rule is so important. When you have "No" in your mind, the rules aren't
+
 ---
 
 <!-- ![fit left](alan-ref.jpg)
@@ -363,9 +372,11 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 # What's special about today?
 
-* Don't bury the lede
-* If you're not interested in this, is your audience?
+* What else is happening in the world?
+* How does that affect your content?
 * Follow the unique angle
+
+^ Think about the "Time" that you're writing in?
 
 ---
 
@@ -391,8 +402,8 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 * Reference your own work
 * Link to your past posts
+* Reward your long-time followers
 * Link to other people's work
-* Go back to old posts and link
 
 ---
 
@@ -460,40 +471,6 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 
 ---
 
-# Review
-
-* What did you learn?
-* What can I clear up?
-* How do you plan on applying it?
-
-^ move on at 2 minutes left.
-
----
-
-![fit](gotyourback.jpg)
-
-^ One last thing before you go - We have a tradition in ComedySportz. Before we take the stage, all of the players pat each other on the back and say "Got your back." We say that, because, more than anything, improv is about trust. "Got your back" is a reminder of that trust.
-^ We have a nice WordPress Community here in San Antonio. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
-
----
-
-Slides, Resource Guide, and Photo Credits available at
-# [fit] albush.com/iyb
-
----
-
-![](notlast.jpg)
-
-# Improv Classes
-
-* ComedySportz
-* Alamo City Improv
-* The Denials
-* Missed Opportunity
-
-
----
-
 # Books about Improv
 
 * *Improvisation for the Theater* - Viola Spolin
@@ -515,23 +492,53 @@ Slides, Resource Guide, and Photo Credits available at
 
 ---
 
+![](notlast.jpg)
+
+# Improv Classes
+
+* ComedySportz
+* Alamo City Improv
+* The Denials
+* Missed Opportunity
+
+
+---
+
+# Questions
+
+* What did you learn?
+* What can I clear up?
+* How do you plan on applying it?
+* Find me afterward and chat
+
+^ move on at 2 minutes left.
+
+---
+
+![fit](gotyourback.jpg)
+
+^ One last thing before you go - We have a tradition in ComedySportz. Before we take the stage, all of the players pat each other on the back and say "Got your back." We say that, because, more than anything, improv is about trust. "Got your back" is a reminder of that trust.
+^ We have a nice WordPress Community here in San Antonio. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
+
+---
+
+Slides, Resource Guide, and Photo Credits available at
+# [fit] albush.com/iyb
+
+
+---
+
+
 #### Photo Credits
 
-- Slide 9: flickr photo by ChodHound https://flickr.com/photos/chodhound/108179345 shared under a Creative Commons (BY-SA) license
-- Slide 12: flickr photo by Drew Coffman https://flickr.com/photos/drewcoffman/4815205632 shared under a Creative Commons (BY) license
+- Slide 11: flickr photo by Drew Coffman https://flickr.com/photos/drewcoffman/4815205632 shared under a Creative Commons (BY) license
 - Slide 18: flickr photo by trickmonet https://flickr.com/photos/trickmonet/3401178634 shared under a Creative Commons (BY) license
+- Slide 20: Photo from Viola Spolin official website: http://www.violaspolin.org/bio/
 
 ---
 
 #### Photo Credits
 
-- Slide 20: Photo from Viola Spolin official website: http://www.violaspolin.org/bio/
 - Slide 21: Photo from spolin.org: http://spolin.com/?page_id=547
 - Slide 22: Photo from Chicago Reader: http://www.chicagoreader.com/chicago/as-del-lay-dying/Content?oid=1109931
-
----
-
-#### Photo Credits
-
 - Slide 23: Photo from iO: http://ioimprov.com/chicago/classes/instructors/
-- Slide 42: Photo from AVClub: http://www.avclub.com/article/mick-napier-opens-his-iswear-jar-i-39763

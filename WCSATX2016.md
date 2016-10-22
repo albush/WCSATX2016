@@ -300,7 +300,7 @@ Let's go back to my previous example of my fictional scene partner's offer "Hey 
 # [fit] What's special about today?
 
 ^ What's Special about today? In improv, like theatre, film, and television, we make create the scene any time and place we want. Why would we choose to make up a scene in the middle of a boring day?
-What else is going on in the world
+What else is going on in the world? Play with that, and have fun with it.
 
 ---
 
@@ -376,7 +376,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 * How does that affect your content?
 * Follow the unique angle
 
-^ Think about the "Time" that you're writing in?
+^ Think about the "Time" that you're writing in? What's special about right now? It's late October, Halloween's coming up, it's fall, Spurs season is about to start. How can you incorporate that into your content? Timelier content is more relevant, and readers and viewers eat it up. Beers: Oktoberfiesta, Silver and Black. Timed with seasons. Find that unique angle.
 
 ---
 

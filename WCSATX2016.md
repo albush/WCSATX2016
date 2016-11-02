@@ -1,4 +1,4 @@
-footer: \#ImprovYourBlog | \#WCSATX16 | @alanbush
+footer: \#ImprovYourBlog | \#WCSATX | @alanbush
 slidenumbers: true
 
 ![](cover.png)
@@ -68,7 +68,7 @@ slidenumbers: true
 # [fit] ComedySportz
 # [fit] San Antonio
 
-^ For the last 4 and half years I've been performing regularly with ComedySportz San Antonio. This is my outlet for my improv nerdiness. The folks at ComedySportz are great, and we're building an even bigger community of improvisors right here in San Antonio. There are regular improv classes,
+^ For the last 4 and half years I've been performing regularly with ComedySportz San Antonio. This is my outlet for my improv nerdiness. The folks at ComedySportz are great, and we're building an even bigger community of improvisors right here in San Antonio.
 
 ---
 
@@ -80,10 +80,9 @@ slidenumbers: true
 
 --- -->
 
-> That seems like a lot.
--- me
+# Improv Your Blog
 
-^ When I listed them all, I was shocked. That's a lot of content. And I'm not even what I would consider a prolific content creator. I had a great discussion with a colleague, and through our discussion I realized that The Rules of Improv have shaped the way I approach content creation.
+^ When this opportunity to speak at WordCamp came up, I wanted to speak on Community, and Collaboration, and Content Creation - And I realized that's what Improv is. I started to create the presentation, and just went with it. I realized that The Rules of Improv have shaped the way I approach content creation.
 
 ---
 
@@ -518,7 +517,7 @@ What else do we know? Jerry rides the bus - is he eco-friendly? Or does he live 
 ![fit](gotyourback.jpg)
 
 ^ One last thing before you go - We have a tradition in ComedySportz. Before we take the stage, all of the players pat each other on the back and say "Got your back." We say that, because, more than anything, improv is about trust. "Got your back" is a reminder of that trust.
-^ We have a nice WordPress Community here in San Antonio. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
+^ We have a nice WordPress Community here in San Antonio. Kori mentioned this during the introduction and I think that's absolutely true. Let's be supportive and trusting. Let's remind our friends that we've got their backs.
 
 ---
 
